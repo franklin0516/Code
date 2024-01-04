@@ -449,3 +449,4 @@ To get the diff between two versions, go to https://github.com/symfony/symfony/c
  * feature #62 bump to PHP 7.1 (nicolas-grekas)
  * feature #43 Create PSR-7 messages using PSR-17 factories (ajgarlag)
  * feature #45 Fixed broken build (Nyholm)
+ * feature #78 Fixed broken link(Siddharth1605)
