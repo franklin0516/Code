@@ -3,6 +3,8 @@ Contributing
 
 Symfony is an open source, community-driven project.
 
+Contribution the key to offer
+
 If you'd like to contribute, please read the following documents:
 
 * [Reviewing issues/pull requests][0]
